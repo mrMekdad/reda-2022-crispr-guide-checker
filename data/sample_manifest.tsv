@@ -1,3 +1,4 @@
 sample	status	group
 crispr-guide-checker-01	ready	control
 crispr-guide-checker-02	review	case
+crispr-guide-checker-03	queued	validation
